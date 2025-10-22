@@ -26,4 +26,3 @@ Tasks are stored persistently using a text file so that they remain even after t
 1. Open **VS Code** or any terminal.
 2. Navigate to the folder containing `todo.py`:
    ```bash
-   cd "C:\Users\Sahana\Downloads"
